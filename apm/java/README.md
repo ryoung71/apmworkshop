@@ -9,7 +9,7 @@ Requirements:
 Make sure that you still have the Python Flask server from Workshop Activity #2 running. If you accidentally shut it down follow steps from Workshop #2 to restart the Python Flask server.
 
 Make sure you are in the right directory to start the Java activities:  
-`cd ~/splunkobservability/apm/java`
+`cd ~/apmworkshop/apm/java`
 
 #### Step #2 Download current SignalFx Java Auto-instrumentation
 
